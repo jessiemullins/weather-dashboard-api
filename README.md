@@ -1,7 +1,7 @@
-#Module 02 Challenge
+#Weather Dashboard API
 
 ##Description
-This Portfolio was created to showcase future projects and for use in potential interviews. I used the skills learned in week 2 of class, covering advanced CSS.
+This project is a 5 day forecast tool that will display a 5 day forecast for a location the user searches. This will include the current and forecasted conditions of: humidity, temperature, and wind speed. It also uses local storage to store the user's search history. 
 
 ##Installation
 image
@@ -9,7 +9,7 @@ image
 Link to deployed webpage: 
 
 ##Usage
-To use this Portfolio webpage, click on the links to navigate to various projects. You can use the nav bar to scroll to each section listed. You can also view links to my contact info at the end of the page.
+To use this weather dashboard, visit the deployed application and search a location to prompt a result. 
 
 ##Credits
 N/A
